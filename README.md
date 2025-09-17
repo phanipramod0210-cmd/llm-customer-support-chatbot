@@ -1,1 +1,2 @@
-# llm-customer-support-chatbot
+# LLM Customer Support Chatbot (Starter)
+RAG-style chatbot with FAISS fallback.
